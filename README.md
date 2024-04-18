@@ -1,5 +1,11 @@
 # Portfolio of Duc Le
 
+[![Github Follow](https://img.shields.io/github/followers/ducleTrustworthyAI?label=Follow%20Me&style=social)](https://github.com/ducleTrustworthyAI)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ngocducdarkzonezero@gmail.com)](mailto:ngocducdarkzonezero@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/david_ducle)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-ducle/)
+
+
 ## Introduction
 
 Hello! I'm Duc Le, a passionate researcher actively seeking opportunities to pursue a Ph.D. focusing on Safety AI, Explainable AI (XAI), and Trustworthy AI.
