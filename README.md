@@ -93,6 +93,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
    - Medical Image Analysis
    - Diffusion-based image colorization
    - Image generation
+   - Video classification
 4. **Time-series data**:
    - Music genre classification
    - Temperature Forecasting from Machines
