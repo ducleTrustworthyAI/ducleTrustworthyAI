@@ -43,7 +43,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
       - Coordinated efforts across different phases of the project, from conceptualization and research to development and deployment, ensuring alignment with project objectives and milestones.
       - Mentored and empowered team members to leverage their expertise and creativity in addressing complex challenges and driving innovation in multimodal AI.
 
-# Publications
+## Publications
 
 1. **Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset**  
    - *Multimedia Benchmark Workshop 2023*, 2024.  
