@@ -71,7 +71,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
      - Received recognition or awards for academic achievements, research contributions, or leadership roles within the university community.
 
 2. **High School Diploma**
-   - Nguyen Du High school for the gifted, Dak Lak Province, Vietnam (10/2020 - 7/2024)
+   - Nguyen Du High school for the gifted, Dak Lak Province, Vietnam (9/2017 - 5/2020)
    - Major: Mathematics (Honors Program)
    - GPA: 8.4/10
    - Description:
