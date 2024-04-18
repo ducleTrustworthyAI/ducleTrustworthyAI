@@ -29,6 +29,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - **Utilizing Large Language Models for Vietnamese Language Processing**
    - AIO Viet Nam (10/2023 - 11/2023)
    - Role: Team Leader / Project Manager
+   - Team size: 5
    - Description:
       - Led a multidisciplinary team of researchers and engineers in exploring and developing large language models.
       - Collaborated with team members to define research objectives, allocate tasks, and establish timelines for project milestones.
@@ -38,6 +39,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - **Multimodal Problem-solving Project**
    - AIO Viet Nam (11/2023 - 12/2023)
    - Role: Team Leader / Project Manager
+   - Team size: 2
    - Description:
       - Led a multidisciplinary team in a groundbreaking project aimed at solving multimodal problems, combining text, image, and other modalities.
       - Coordinated efforts across different phases of the project, from conceptualization and research to development and deployment, ensuring alignment with project objectives and milestones.
