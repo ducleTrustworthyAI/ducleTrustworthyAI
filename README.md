@@ -27,7 +27,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 
 ## Team Leadership and Collaboration
 - **Utilizing Large Language Models for Vietnamese Language Processing**
-   - AIO Viet Nam (10/2023 - 11/2023)
+   - AI Viet Nam (10/2023 - 11/2023)
    - Role: Team Leader / Project Manager
    - Team size: 5
    - Description:
@@ -37,7 +37,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
       - Fostered a collaborative and inclusive team environment, encouraging open communication and knowledge sharing among team members.
       - Provided mentorship and guidance to team members, helping them develop their technical skills and achieve project goals effectively.
 - **Multimodal Problem-solving Project**
-   - AIO Viet Nam (11/2023 - 12/2023)
+   - AI Viet Nam (11/2023 - 12/2023)
    - Role: Team Leader / Project Manager
    - Team size: 2
    - Description:
@@ -74,6 +74,36 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
    - English: Intermediate proficiency (IELTS 5.5)
    - Chinese (Mandarin): Intermediate proficiency (HSK 3)
    - French: Basic proficiency
+
+## Personal Projects
+1. **Text data**:
+   - LLM-based math solver
+   - Tweet Sentiment Classification
+   - Peom Generation
+   - VN-EN language translation
+   - RFHL for LLMs
+3. **Image data**:
+   - Helmet detection using YOLO V9
+   - Gesture Recognization
+   - Traffic sign detection
+   - Gradient vanishing in MLP
+   - OCR (Yolo+CNN) information extraction from ID card
+   - Vision QA
+   - Footballer tracking
+   - Medical Image Analysis
+   - Diffusion-based image colorization
+   - Image generation
+4. **Time-series data**:
+   - Music genre classification
+   - Temperature Forecasting from Machines
+   - Music style transfer
+6. **Tabular data**:
+   - Sales prediction
+   - Heart failure prediction
+7. **Deploy**:
+   - Chatbot Development
+   - Big Data Framework
+   - Build library PyTorch
 
 ## Educational Background
 
