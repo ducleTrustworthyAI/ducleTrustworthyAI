@@ -80,6 +80,14 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - Participating in AI research communities through events and conferences
 - Fitness activities such as running and seibukaikan karate
 
+## Social Engagement
+- **Xanh 2024 - Environmental Protection Campaign**
+  - Description: Active member in the Xanh 2024 campaign, contributing to organizing activities to raise awareness about environmental protection and promote concrete actions to reduce pollution and conserve natural resources.
+- **Dinh Tri Thuc 2022 - Education and Communication Event**
+  - Description: Participated in organizing the Dinh Tri Thuc 2022 event to create an open forum for discussions on education and communication issues, thereby contributing to improving awareness and the quality of education in the community.
+- **Teaching Assistance for SOS Foundation 2023**
+  - Description: Spent time weekly providing tutoring and educational support for children at the SOS foundation, helping children have better learning conditions and develop essential skills for the future.
+
 ## Contact
 
 - Email: [ngocducdarkzonezero@gmail.com](ngocducdarkzonezero@gmail.com)
