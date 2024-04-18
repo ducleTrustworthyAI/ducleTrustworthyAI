@@ -106,7 +106,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - **Xanh 2024 - Environmental Protection Campaign**
   - Description: Active member in the Xanh 2024 campaign, contributing to organizing activities to raise awareness about environmental protection and promote concrete actions to reduce pollution and conserve natural resources.
 
-## Contact
+## Contact Information
 
 - Email: [ngocducdarkzonezero@gmail.com](ngocducdarkzonezero@gmail.com)
 - LinkedIn: [Duc Le](https://www.linkedin.com/in/david-ducle/)
