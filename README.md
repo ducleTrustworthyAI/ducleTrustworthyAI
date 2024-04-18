@@ -118,6 +118,8 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - Foster a culture of diversity, inclusivity, and collaboration within the AI community, encouraging diverse perspectives and approaches to problem-solving.
 - Lead a balanced life that prioritizes well-being, personal growth, and meaningful connections with others, both within and outside the realm of AI.
 
+## Conclusion
+
 Through my research, I hope to contribute to building a future where artificial intelligence is not only powerful and effective but also reliable and beneficial to society as a whole.
 
 If you're interested in my research projects or would like to discuss ideas related to Trustworthy AI, feel free to get in touch with me via email or social media.
