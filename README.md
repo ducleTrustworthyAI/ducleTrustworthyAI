@@ -79,6 +79,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - Reading books on AI and data science
 - Participating in AI research communities through events and conferences
 - Fitness activities such as running and seibukaikan karate
+- Musical skills such as piano and guitar
 
 ## Social Engagement
 - **Dinh Tri Thuc 2022 - Education and Communication Event**
