@@ -14,16 +14,6 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
   - University of Science, Ho Chi Minh City, Vietnam (12/2022 - 7/2024)
   - In this project, I delve into the fascinating realm of developing interpretable predictive models for medical applications using time-series data. With the increasing availability of healthcare data, there is a growing demand for accurate prediction models that not only forecast medical outcomes but also provide transparent explanations for these predictions.
 
-- **Team Leadership and Collaboration**
-   - Utilizing Large Language Models for Vietnamese Language Processing (10/2023 - 12/2023)
-   - Role: Team Leader / Project Manager
-   - Description:
-      - Led a multidisciplinary team of researchers and engineers in exploring and developing large language models.
-      - Collaborated with team members to define research objectives, allocate tasks, and establish timelines for project milestones.
-      - Facilitated regular meetings and discussions to brainstorm ideas, share progress updates, and address challenges encountered during the research process.
-      - Fostered a collaborative and inclusive team environment, encouraging open communication and knowledge sharing among team members.
-      - Provided mentorship and guidance to team members, helping them develop their technical skills and achieve project goals effectively.
-
 - **Research Supervision Experience**
   - Guiding Undergraduate Theses on Explainable AI (XAI)
   - University of Science, Ho Chi Minh City, Vietnam (2/2024 - 7/2024)
@@ -35,7 +25,23 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
     - Encouraged students to present their research at conferences or publish their work in academic journals, promoting scholarly engagement and professional development.
     - Contributed to the academic community by supervising high-quality undergraduate research projects and nurturing future researchers in the field of Explainable AI.
 
-## Publications
+## Team Leadership and Collaboration
+- **Utilizing Large Language Models for Vietnamese Language Processing**
+   - AIO Viet Nam (10/2023 - 12/2023)
+   - Role: Team Leader / Project Manager
+   - Description:
+      - Led a multidisciplinary team of researchers and engineers in exploring and developing large language models.
+      - Collaborated with team members to define research objectives, allocate tasks, and establish timelines for project milestones.
+      - Facilitated regular meetings and discussions to brainstorm ideas, share progress updates, and address challenges encountered during the research process.
+      - Fostered a collaborative and inclusive team environment, encouraging open communication and knowledge sharing among team members.
+      - Provided mentorship and guidance to team members, helping them develop their technical skills and achieve project goals effectively.
+- **Multimodal Problem-solving Project**
+   - AIO Viet Nam (10/2023 - 12/2023)
+   - Role: Team Leader / Project Manager
+   - Description:
+      - Led a multidisciplinary team in a groundbreaking project aimed at solving multimodal problems, combining text, image, and other modalities.
+      - Coordinated efforts across different phases of the project, from conceptualization and research to development and deployment, ensuring alignment with project objectives and milestones.
+      - Mentored and empowered team members to leverage their expertise and creativity in addressing complex challenges and driving innovation in multimodal AI.
 
 1. **Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset**  
    - *Multimedia Benchmark Workshop 2023*, 2024.  
