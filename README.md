@@ -94,6 +94,29 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 - LinkedIn: [Duc Le](https://www.linkedin.com/in/david-ducle/)
 - GitHub: [ducleTrustworthyAI](https://github.com/ducleTrustworthyAI)
 
+## Dreams and Future Goals
+- Vision Statement
+  - As an AI enthusiast, my ultimate dream is to leverage the power of artificial intelligence to positively impact society and contribute to solving some of the world's most pressing challenges. I envision a future where AI technologies are ethically developed and deployed to enhance human capabilities, foster innovation, and promote sustainable development across various domains.
+
+- Career Goals
+   - Short-Term Goals (1-5 Years)
+      - Obtain a Ph.D. in Artificial Intelligence with a focus on Explainable AI (XAI) and Trustworthy AI.
+      - Publish research papers in reputable journals and present findings at leading conferences in the field.
+      - Collaborate with interdisciplinary teams to develop AI solutions that prioritize transparency, fairness, and accountability.
+   - Medium-Term Goals (5-10 Years)
+      - Secure a position as a research scientist or AI engineer at a renowned research institution or tech company.
+      - Lead innovative projects that advance the state-of-the-art in XAI, ensuring AI systems are interpretable, reliable, and aligned with human values.
+      - Mentor and inspire the next generation of AI researchers and practitioners through teaching and supervision roles.
+   - Long-Term Goals (10+ Years)
+      - **Establishing a Deep AI Research Institute**: I aspire to establish a specialized AI research institute in Vietnam, dedicated to providing accessible and high-quality education and research opportunities in the field of artificial intelligence. The institute will aim to bridge the gap between theoretical knowledge and practical applications, empowering the younger generation to explore the vast potential of AI and contribute to global innovation.
+      - **Developing a Tech Company**: Concurrently, I plan to develop a technology company focused on AI solutions and services, with the mission of generating revenue to support the establishment and sustainability of the research institute. Through strategic partnerships and innovative business models, the company will leverage AI technologies to address real-world challenges and create value for clients while contributing to the social mission of advancing AI education and research in Vietnam.
+      - Advocate for AI policy and governance frameworks that prioritize ethical AI development and address societal concerns.
+      - Contribute to shaping the future of AI by actively engaging in global initiatives and collaborations aimed at ensuring the responsible and beneficial use of AI for all.
+## Personal Aspirations
+- Continuously learn and adapt to emerging technologies and interdisciplinary knowledge areas relevant to AI.
+- Foster a culture of diversity, inclusivity, and collaboration within the AI community, encouraging diverse perspectives and approaches to problem-solving.
+- Lead a balanced life that prioritizes well-being, personal growth, and meaningful connections with others, both within and outside the realm of AI.
+
 Through my research, I hope to contribute to building a future where artificial intelligence is not only powerful and effective but also reliable and beneficial to society as a whole.
 
 If you're interested in my research projects or would like to discuss ideas related to Trustworthy AI, feel free to get in touch with me via email or social media.
