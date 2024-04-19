@@ -137,6 +137,12 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
      - Actively participated in extracurricular activities such as math competitions, clubs, and research projects, further enriching mathematical knowledge and skills beyond the classroom curriculum.
      - Engaged in community service initiatives and leadership roles, fostering teamwork, communication, and interpersonal skills alongside academic pursuits.
 
+## Advising & Mentoring
+
+### Current Advisees
+
+Bac Le (Doctoral Professor, Ho Chi Minh University of Science, Vietnam)
+
 ## Technologies Used
 
 - Programming Languages: Python, R, Java, C++
