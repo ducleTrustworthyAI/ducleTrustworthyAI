@@ -71,9 +71,11 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
    - *Multimedia Benchmark Workshop 2023*, 2024.  
    - [https://2023.multimediaeval.com/paper5.pdf](https://2023.multimediaeval.com/paper5.pdf)
    - **Le Ngoc-Duc**, Le Minh-Hung, Dinh Quang-Vinh
+   - In today's digital landscape, vast amounts of textual and visual data are generated across various platforms. Understanding the intricate correlations between text and images holds immense potential for applications ranging from content recommendation systems to multimedia analysis. Our project focuses on harnessing multimodal models to unravel the complex relationships between textual and visual content.
 2. **Multi-scale and Multi-level Attention based on External knowledge in EHRs**  
    - *16th Asian Conference on Intelligent Information and Database Systems*, 2024.  
    - **Duc Le**, Bac Le
+   - In the realm of healthcare, understanding complex time series data is crucial for accurate diagnosis, treatment, and patient care. Our project focuses on harnessing the power of Explainable Artificial Intelligence (XAI) to analyze and interpret time series data in medical contexts.
 
 ## Language Proficiency
    - Vietnamese: Native proficiency
