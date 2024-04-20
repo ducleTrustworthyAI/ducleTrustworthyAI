@@ -62,7 +62,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 
 ## Teaching Assistant Experience
 - Fundamentals of Artificial Intelligence Course
-   - Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam (9/2025 - 1/2025)
+   - Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam (9/2024 - 1/2025)
    - Role: Teaching Assistant (TA)
    - Responsibilities:
       - Assisting Professor: Supported the course instructor in preparing course materials, delivering lectures, and conducting tutorials.
