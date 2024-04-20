@@ -30,11 +30,11 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
     - Facilitated regular meetings and discussions to monitor progress, address challenges, and provide feedback on research methodologies and findings.
     - Encouraged students to present their research at conferences or publish their work in academic journals, promoting scholarly engagement and professional development.
     - Contributed to the academic community by supervising high-quality undergraduate research projects and nurturing future researchers in the field of Explainable AI.
-- **Exploring Embeddings to Uncover Information Essence Stored in Machine Learning Models**
+- **Exploring Embeddings to Uncover Information Essence Stored in Machine Learning Models** (4/2024 - 7/2024)
    - Role: Team Leader / Project Manager / Ideator
    - Team size: 2
    - Description: In the realm of machine learning, the interpretability of models and the understanding of feature representations are critical for trust, transparency, and further model improvement. Our project delves into the exploration of embeddings to unravel the underlying information essence stored within machine learning models.
-- **Sequential Pattern Mining in Data Mining**
+- **Sequential Pattern Mining in Data Mining** (2/2024 - 7/2024)
    - Role: Team Leader / Project Manager / Ideator
    - Team size: 2
    - Description: In the realm of data mining, uncovering sequential patterns holds immense potential for revealing hidden insights and facilitating informed decision-making processes. Our project focuses on the exploration and extraction of sequential patterns from large-scale datasets, aiming to unlock valuable knowledge and actionable insights. Here's an overview of our project:
