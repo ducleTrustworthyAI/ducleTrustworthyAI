@@ -20,7 +20,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
   - University of Science, Ho Chi Minh City, Vietnam (12/2022 - 7/2024)
   - In this project, I delve into the fascinating realm of developing interpretable predictive models for medical applications using time-series data. With the increasing availability of healthcare data, there is a growing demand for accurate prediction models that not only forecast medical outcomes but also provide transparent explanations for these predictions.
 
-- **Research Supervision Experience**
+## Research Supervision Experience
   - Guiding Undergraduate Theses on Explainable AI (XAI)
   - University of Science, Ho Chi Minh City, Vietnam (2/2024 - 7/2024)
   - Description:
@@ -30,7 +30,14 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
     - Facilitated regular meetings and discussions to monitor progress, address challenges, and provide feedback on research methodologies and findings.
     - Encouraged students to present their research at conferences or publish their work in academic journals, promoting scholarly engagement and professional development.
     - Contributed to the academic community by supervising high-quality undergraduate research projects and nurturing future researchers in the field of Explainable AI.
-
+- **Exploring Embeddings to Uncover Information Essence Stored in Machine Learning Models**
+   - Role: Team Leader / Project Manager / Ideator
+   - Team size: 2
+   - Description: In the realm of machine learning, the interpretability of models and the understanding of feature representations are critical for trust, transparency, and further model improvement. Our project delves into the exploration of embeddings to unravel the underlying information essence stored within machine learning models.
+- **Sequential Pattern Mining in Data Mining**
+   - Role: Team Leader / Project Manager / Ideator
+   - Team size: 2
+   - Description: In the realm of data mining, uncovering sequential patterns holds immense potential for revealing hidden insights and facilitating informed decision-making processes. Our project focuses on the exploration and extraction of sequential patterns from large-scale datasets, aiming to unlock valuable knowledge and actionable insights. Here's an overview of our project:
 ## Team Leadership and Collaboration
 - **Utilizing Large Language Models for Vietnamese Language Processing**
    - AI Viet Nam (10/2023 - 11/2023)
