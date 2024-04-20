@@ -68,7 +68,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 ## Publications
 
 1. **Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset**  
-   - *Multimedia Benchmark Workshop*, 2024.
+   - *Multimedia Benchmark Workshop*, 2023.
    - [https://2023.multimediaeval.com/paper5.pdf](https://2023.multimediaeval.com/paper5.pdf)
    - **Le Ngoc-Duc**, Le Minh-Hung, Dinh Quang-Vinh
    - Description: In today's digital landscape, vast amounts of textual and visual data are generated across various platforms. Understanding the intricate correlations between text and images holds immense potential for applications ranging from content recommendation systems to multimedia analysis. Our project focuses on harnessing multimodal models to unravel the complex relationships between textual and visual content.
