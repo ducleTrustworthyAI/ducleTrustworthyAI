@@ -21,7 +21,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
   - In this project, I delve into the fascinating realm of developing interpretable predictive models for medical applications using time-series data. With the increasing availability of healthcare data, there is a growing demand for accurate prediction models that not only forecast medical outcomes but also provide transparent explanations for these predictions.
 
 ## Research Supervision Experience
-  - Guiding Undergraduate Theses on Explainable AI (XAI) and Data Mining
+  - Guiding Undergraduate Theses on Explainable AI (XAI).
   - University of Science, Ho Chi Minh City, Vietnam (2/2024 - 7/2024)
   - Description:
     - Served as a research supervisor for undergraduate students pursuing theses on topics related to Explainable AI (XAI).
@@ -35,11 +35,11 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
    - Role: Team Leader / Project Manager / Ideator
    - Team size: 2
    - Description: In the realm of machine learning, the interpretability of models and the understanding of feature representations are critical for trust, transparency, and further model improvement. Our project delves into the exploration of embeddings to unravel the underlying information essence stored within machine learning models.
-- **Sequential Pattern Mining** (4/2024 - 7/2024)
-   - Topic: Data Mining 
+- **XAI in Meta Learning** (5/2024 - 7/2024)
+   - Topic: XAI
    - Role: Team Leader / Project Manager / Ideator
-   - Team size: 2
-   - Description: In the realm of data mining, uncovering sequential patterns holds immense potential for revealing hidden insights and facilitating informed decision-making processes. Our project focuses on the exploration and extraction of sequential patterns from large-scale datasets, aiming to unlock valuable knowledge and actionable insights. Here's an overview of our project:
+   - Team size: 1
+   - Description: 
 ## Team Leadership and Collaboration
 - **Utilizing Large Language Models for Vietnamese Language Processing**
    - AI Viet Nam (10/2023 - 11/2023)
