@@ -149,7 +149,7 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
 
 ## Advising & Mentoring
 
-### Current Advisees
+### Current Advisors
 
 Bac Le (Doctoral Professor, Ho Chi Minh University of Science, Vietnam)
 
