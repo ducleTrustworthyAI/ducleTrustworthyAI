@@ -59,20 +59,6 @@ Trustworthy AI doesn't just involve creating AI models that are explainable and 
       - Coordinated efforts across different phases of the project, from conceptualization and research to development and deployment, ensuring alignment with project objectives and milestones.
       - Mentored and empowered team members to leverage their expertise and creativity in addressing complex challenges and driving innovation in multimodal AI.
 
-## Teaching Assistant Experience
-- Fundamentals of Artificial Intelligence Course
-   - Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam (9/2024 - 1/2025)
-   - Role: Teaching Assistant (TA)
-   - Responsibilities:
-      - Assisting Professor: Supported the course instructor in preparing course materials, delivering lectures, and conducting tutorials.
-      - Grading Assignments: Evaluated student assignments, exams, and projects, providing constructive feedback and guidance for improvement.
-      - Leading Discussions: Facilitated group discussions, review sessions, and office hours to help students better understand course concepts and materials.
-      - Assisting Students: Provided individualized assistance to students, answering questions, clarifying doubts, and offering additional resources to support their learning.
-   - Achievements:
-      - Effective Communication: Demonstrated strong communication and interpersonal skills in interacting with students and conveying complex concepts in an accessible manner.
-      - Supportive Mentorship: Offered mentorship and academic support to students, contributing to their academic success and confidence in the subject matter.
-      - Positive Feedback: Received positive feedback from both students and faculty for my dedication, enthusiasm, and effectiveness as a teaching assistant.
-
 ## Publications
 
 1. **Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset**  
